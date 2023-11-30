@@ -12,6 +12,8 @@ pip install -r Requirements.txt
 
 python3 CVE-2023-4966.py -h
 
+# USAGE
+
 Single exploitation:
 
 python3 CVE-2023-4966.py -d target.com -o output.txt
@@ -20,6 +22,8 @@ Mass exploitation:
 
 python3 CVE-2023-4966.py -dL domains.txt -o output.txt
 
-INFO:
+# INFO:
+This exploitation script is an upgraded version of the original work by ASSETNOTE and Dr. Sanjay. Some changes have been made to enhance its capabilities. The developer is not responsible for any illegal or unethical use of this script.
 
-This exploitation script has been upgraded by with the previous exploitation provided by ASSETNOTE and Dr sanjay by upgrading and made some changes in this exploitation. Importing things this the developer is not reponse for any illegal or unethical exploitation. 
+# Disclaimer
+Use this script responsibly and only on systems you have explicit permission to test. Unauthorized use is strictly prohibited.
